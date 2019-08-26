@@ -20,7 +20,7 @@ The Super Characters method is a two-step method that was initially designed for
 > This is an example with iris data table.</br>
 ![iris_table](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/SuperTML/img/iris_table.png)</br>
 Embedding the iris data to superTML images.</br>
-![embedding](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/SuperTML/img/embedded_iris.png)
+![embedding](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/SuperTML/img/embedded_iris_01.png)
 
 - __Second Step__ : Using pretrained CNN models to fine-tune on the generated SuperTML images.
 
