@@ -2,7 +2,7 @@
 ### Sun, B., Yang, L., Zhang, W., Lin, M., Dong, P., Young, C., & Dong, J. (2019). SuperTML: Two-Dimensional Word Embedding for the Precognition on Structured Tabular Data. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 0-0).
 
 
-> Super __TML__ (__T__abular data __M__achine __L__earning) :  __Two-Dimensional__ Word __Embedding__ for the
+> Super __TML__ (__T__ abular data __M__ achine __L__ earning) :  __Two-Dimensional__ Word __Embedding__ for the
 Precognition on __Structured Tabular Data__
 
 Tabular data is the most commonly used form of data in industry according to a Kaggle ML and DS Survey.
