@@ -17,3 +17,7 @@
 _x_, _z_ : part of the domain<br>
 
 The upward arrows show how the mapping _x = G(z)_ imposes the non-uniform distrbution _p<sub>g</sub>_ on transformed samples.
+
+##### Conclusions
+
+![conclusion](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/Generative%20Model/GAN/img/conclusion.png)
