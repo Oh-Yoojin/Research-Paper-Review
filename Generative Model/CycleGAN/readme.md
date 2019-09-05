@@ -24,7 +24,7 @@ Given any two unordered image collections X and Y , our algorithm learns to auto
 
 ![aim_to_solve](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/Generative%20Model/CycleGAN/img/aim_to_solve.png)
 
-![loss_function](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/Generative%20Model/CycleGAN/img/cycle_loss_cuntions.png)
+![loss_function](https://github.com/Oh-Yoojin/Research-Paper-Review/blob/master/Generative%20Model/CycleGAN/img/cycle_loss_funtions.png)
 
 ##### Evaluation
 
